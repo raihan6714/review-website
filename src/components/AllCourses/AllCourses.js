@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Course = (props) => {
-    console.log(props.course);
-    const { titleImg, name, enroll, title, duration, lectures, forWhom, trainerImg, trainerName, courseFees } = props.course;
+const AllCourses = (props) => {
+    const { titleImg, name, enroll, title, duration, lectures, forWhom, trainerImg, trainerName, courseFees } = props.service;
     return (
         <div className="col-xl-4 col-lg-4 col-md-6 col-sm-12">
             <div className="crs_grid">
@@ -64,4 +63,4 @@ const Course = (props) => {
     );
 };
 
-export default Course;
+export default AllCourses;

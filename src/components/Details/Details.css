@@ -1,0 +1,21 @@
+.gray {
+    background: #f7f8f9;
+}
+.edu_wraper {
+    width: 100%;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 0.5rem;
+    margin-bottom: 30px;
+}
+.edu_wraper .edu_title {
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+
+.lists-3 li{
+    margin: 1px 0 14px;
+    line-height: 27px;
+    margin-left: 22px;
+    position: relative;
+}

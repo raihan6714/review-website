@@ -31,7 +31,7 @@ function App() {
             <About></About>
           </Route>
           {/* service page route */}
-          <Route exact path="/service">
+          <Route exact path="/cources">
             <Service></Service>
           </Route>
           {/* details page route */}

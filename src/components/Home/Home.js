@@ -5,7 +5,7 @@ import './Home.css';
 
 const Home = () => {
     const [courses, setCourses] = useState([]);
-
+    const limitCode = courses.slice(0, 6);
     useEffect(() => {
         fetch('./cources.JSON')
             .then(res => res.json())
@@ -33,7 +33,7 @@ const Home = () => {
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-12">
                             <div className="side_block">
-                                <img src="https://themezhub.net/skillup-demo/assets/img/side-1.png" className="img-fluid" alt="" />
+                                <img src="https://themezhub.net/skillup-demo/assets/img/side-2.png" className="img-fluid" alt="" />
                             </div>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ const Home = () => {
                 <div className="row ">
                     {/* Single Grid  */}
                     {
-                        courses.map(course => <Course
+                        limitCode.map(course => <Course
                             key={course.keys}
                             course={course}
                         ></Course>)
@@ -63,7 +63,7 @@ const Home = () => {
                 <div className="row justify-content-center">
                     <div className="col-lg-7 col-md-8 mt-2">
                         <div className="text-center">
-                            <Link to="/services" className="btn btn-md theme-bg-light theme-cl">Explore More Cources</Link>
+                            <Link to="/cources" className="btn btn-md theme-bg-light theme-cl">Explore More Cources</Link>
                         </div>
                     </div>
                 </div>
