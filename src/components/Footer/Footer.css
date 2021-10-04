@@ -1,0 +1,14 @@
+
+.footer {
+    color: #5e6d88;
+    height: 80px;
+    background: #1d2636;
+    border-top: 1px solid #273246;
+    font-weight: 600;
+}
+footer  a {
+    color: #5e6d88;
+    transition: all ease 0.4s;
+    font-size: 14px;
+    font-weight: 600;
+}

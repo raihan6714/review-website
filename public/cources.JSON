@@ -1,0 +1,80 @@
+    [
+        {
+            "keys": "Design_001",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-1.jpg",
+            "name": "Design",
+            "enroll": "8,350",
+            "title": "UI/UX Design Pattern forWhom Succesfull Software Applications",
+            "duration": "10 hr 07 min",
+            "lectures": "67",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/user-6.jpg",
+            "trainerName": "Robert Fox",
+            "courseFees": "149"
+        },
+        {
+            "keys": "Banking_002",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-2.jpg",
+            "name": "Banking",
+            "enroll": "7,150",
+            "title": "Basic Knowledge About Hodiernal Bharat In History",
+            "duration": "05 hr 07 min",
+            "lectures": "22",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/team-5.jpg",
+            "trainerName": "Robert Tom",
+            "courseFees": "99"
+        },
+        {
+            "keys": "Development_003",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-3.jpg",
+            "name": "Development",
+            "enroll": "1,250",
+            "title": "Advance PHP Knowledge With Laravel To Make Smart Web",
+            "duration": "07 hr 05 min",
+            "lectures": "42",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/user-4.jpg",
+            "trainerName": "Komola Khatun",
+            "courseFees": "129"
+        },
+        {
+            "keys": "Physics_004",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-4.jpg",
+            "name": "Physics",
+            "enroll": "8,350",
+            "title": "The Complete Accounting & Bank Financial Course 2021",
+            "duration": "05 hr 10 min",
+            "lectures": "61",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/user-3.jpg",
+            "trainerName": "Kashem Khan",
+            "courseFees": "49"
+        },
+        {
+            "keys": "Maths_005",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-5.jpg",
+            "name": "Maths",
+            "enroll": "3,340",
+            "title": "The Complete Business Plan Course Includes 50 Templates",
+            "duration": "10 hr 12 min",
+            "lectures": "43",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/user-2.jpg",
+            "trainerName": "Abu Sufaya",
+            "courseFees": "119"
+        },
+        {
+            "keys": "History_006",
+            "titleImg": "https://themezhub.net/skillup-demo/assets/img/cr-6.jpg",
+            "name": "History",
+            "enroll": "6,450",
+            "title": "Full Web Designing Course With 20 Web Template Designing",
+            "duration": "07 hr 15 min",
+            "lectures": "57",
+            "forWhom": "Beginer",
+            "trainerImg": "https://themezhub.net/skillup-demo/assets/img/user-1.jpg",
+            "trainerName": "Anik Das",
+            "courseFees": "199"
+        }
+    ]
